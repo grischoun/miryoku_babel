@@ -373,10 +373,10 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 ****** Sym
 
 #+NAME: sym-r
-| ^    | {    | }    | ~    | !    |
-| :    | (    | )    | @    | "    |
-| $    | [    | ]    | #    | `    |
-| ?    | '    | &    | U_NP | U_NP |
+| {    | &    | *    | (    | }    |
+| +    | $    | %    | ^    | :    |
+| PIPE | !    | @    | #    | ~    |
+| _    | (    | )    | U_NP | U_NP |
 
 
 ****** Fun

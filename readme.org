@@ -349,7 +349,7 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 ****** Thumbs
 
 #+NAME: thumbs-flip
-| U_NP | U_NP | DEL  | BSPC | ENT  | TAB  | SPC  | ESC  | U_NP | U_NP |
+| U_NP | U_NP | TAB  | ESC  | BSPC | ENT  | SPC  | ESC  | U_NP | U_NP |
 
 
 ****** Hold
